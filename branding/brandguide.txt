@@ -1,0 +1,6 @@
+Main text Font: Fire Sans Regular (https://fonts.google.com/specimen/Fira+Sans)
+Main Font Color HEX: #171717
+
+Niemann Yellow: #fee000
+Almost Black: #171717
+Bright Red: #f04d33
